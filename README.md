@@ -21,7 +21,7 @@ A **C# Windows application** was developed for serial-port connection, live illu
 
 ## System Integration
 
-![Arduino-based architecture and application overview](images/system-architecture.png)
+![Arduino-based architecture and application overview](images/system-architecture.PNG)
 
 **Technical areas:** Optical sensors, embedded systems, Arduino prototyping, C# desktop software, serial communication, data visualization, and Bluetooth-enabled IoT interfaces.
 
@@ -33,5 +33,3 @@ A **C# Windows application** was developed for serial-port connection, live illu
 [GitHub](https://github.com/aalirezaaes) · [ORCID](https://orcid.org/0009-0009-2584-9063) · [LinkedIn](https://www.linkedin.com/in/alireza-eskandarnia/)
 
 **Availability:** Portfolio documentation and selected visual material only. Source code and datasets are not included. No open-source license is granted by this repository.
-
-*Note: Graphics in this showcase include AI-enhanced presentation images. Verify technical labels, numerical values, and scientific plots against original research files before reusing them in publications or formal scientific claims.*
